@@ -1,0 +1,27 @@
+Overview:
+This repository contains a comprehensive analysis of historical data for two prominent stocks, Amazon.com, Inc. (AMZN) and Netflix, Inc. (NFLX). The analysis spans 252 financial market days from 01/02/2020 to 01/14/2021, incorporating various forecasting methods to predict stock prices over a specific period. The comparison includes Short-Term Forecasting, Long-Term Forecasting, Regression, and a Baseline Model.
+
+Contents:
+
+1. Short-Term Forecasting:
+Line Plot Analysis, Exponential Smoothing, Adjusted Exponential Smoothing
+
+2. Long-Term Forecasting:
+5-period Weighted Moving Average, Trend Function for Predictions, Actual vs. Predicted Values Scatterplots
+
+3. Regression Analysis:
+Simple Regression, Actual vs. Predicted Values, Mean Absolute Percentage Error (MAPE) Calculations, Residuals Analysis, Histograms and Normality Tests
+
+4. Baseline Model:
+MAPE Calculations, Actual vs. Predicted Values Comparison, Comparison of Forecasting Methods
+
+Conclusion:
+Based on the analysis, a conclusion is drawn regarding which stock (Amazon or Netflix) is considered a better deal. The suggested percentage allocation for each stock is provided.
+
+How to Use:
+The analysis is presented in a structured manner, with each section providing insights into different forecasting methods. Users can refer to specific sections of interest based on their analysis preferences.
+
+Note:
+This analysis is for informational purposes only and should not be considered financial advice. Users are encouraged to conduct their own research and consult with financial professionals before making investment decisions.
+
+Feel free to explore the analysis and provide feedback or suggestions for improvement.
